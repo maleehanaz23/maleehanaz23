@@ -93,13 +93,16 @@ Here are some ideas to get you started: -->
 
 ## 📈 GitHub Stats 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=maleehanaz23&theme=dark" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=maleehanaz23&theme=dark" alt="GitHub Streak" /></a>-->
+![Streak](assets/streak.svg)
+
+![Stats](assets/stats.svg)
+
+<!-- [![maleehanaz23's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=maleehanaz23&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
 
 
-[![maleehanaz23's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=maleehanaz23&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maleehanaz23&layout=compact&theme=vision-friendly-dark)
+<!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maleehanaz23&layout=compact&theme=vision-friendly-dark) -->
+![Top Langs](assets/langs.svg)
 
 
 
@@ -107,8 +110,13 @@ Here are some ideas to get you started: -->
 ---
 
 ## 🏆 Trophies 
+![Trophies](assets/trophies.svg)
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=maleehanaz23&theme=dark" /> -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=maleehanaz23&theme=dark" /> -->
+---
+
+## 👪Contributions
+![Contributions](dist/snake.svg)
 
 
 
