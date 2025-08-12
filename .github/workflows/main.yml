@@ -1,0 +1,42 @@
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs every day at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats Images
+        run: |
+          mkdir -p assets
+          curl -o assets/streak.svg "https://streak-stats.demolab.com?user=maleehanaz23&theme=radical"
+          curl -o assets/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=maleehanaz23&layout=compact&theme=radical"
+          curl -o assets/trophies.svg "https://github-profile-trophy.vercel.app/?username=maleehanaz23&theme=radical"
+
+      - name: Generate Snake Game
+        uses: Platane/snk@v3
+        with:
+          github_user_name: maleehanaz23
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git add .
+          git commit -m "Update GitHub profile stats [skip ci]" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
