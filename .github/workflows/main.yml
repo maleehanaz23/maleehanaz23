@@ -18,8 +18,8 @@ jobs:
       - name: Generate GitHub Stats Images
         run: |
           mkdir -p assets
-          curl -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=maleehanaz23&show_icons=true&theme=dark#gh-dark-mode-only"
           curl -o assets/streak.svg "https://streak-stats.demolab.com?user=maleehanaz23&theme=radical"
+          curl -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=maleehanaz23&show_icons=true&theme=dark#gh-dark-mode-only"
           curl -o assets/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=maleehanaz23&layout=compact&theme=radical"
           curl -o assets/trophies.svg "https://github-profile-trophy.vercel.app/?username=maleehanaz23&theme=radical"
 
