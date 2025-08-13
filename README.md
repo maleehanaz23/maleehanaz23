@@ -8,18 +8,17 @@ Here are some ideas to get you started: -->
  <!-- HEADER -->
 <div align="center">
   <h1>Hi there, I'm <span style="color:#00bfff;">Maleeha Naz</span> 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Front-end+Developer;UI%2FUX+Designer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Front-end+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </div>
 ## 🚀 About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on : Web Development
+- 🌱 I’m currently learning : React.js and Next.js to take my front-end skills to the next level.
+- 👯 I’m looking to collaborate on : CAlcNest website Deployment.
+- 💬 Ask me about : Front-end Web Development
+- 📫 How to reach me: [maleehanaz2002@gmail.com](https://www.linkedin.com/in/maleeha-naz-81254623b/)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I built a currency converter to save money on trips — now I just keep building it for fun. 💱✨
 
   ---
 
