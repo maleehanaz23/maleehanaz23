@@ -22,6 +22,7 @@ jobs:
           curl -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=maleehanaz23&show_icons=true&theme=dark#gh-dark-mode-only"
           curl -o assets/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=maleehanaz23&layout=compact&theme=radical"
           curl -o assets/trophies.svg "https://github-profile-trophy.vercel.app/?username=maleehanaz23&theme=radical"
+          curl -o assets/quote.svg "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
 
       - name: Generate Snake Game
         uses: Platane/snk@v3
