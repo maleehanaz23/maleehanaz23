@@ -10,6 +10,7 @@ Here are some ideas to get you started: -->
   <h1>Hi there, I'm <span style="color:#00bfff;">Maleeha Naz</span> 👋</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Front-end+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </div>
+
 ## 🚀 About Me 
 
 - 🔭 I’m currently working on : Web Development
@@ -24,10 +25,10 @@ Here are some ideas to get you started: -->
 
   ## 🌐 Social Links 
 
-<div id="header" align="right">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -38,13 +39,12 @@ Here are some ideas to get you started: -->
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/> -->
 
 ---
 
 
-
-## 🎬 Featured GIF 
+## 🎬 Fun Coding 
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -115,7 +115,7 @@ Here are some ideas to get you started: -->
 ---
 
 ## 👪Contributions
-![Contributions](dist/snake.svg)
+![Contributions](dist/snake-dark.svg)
 
 
 
