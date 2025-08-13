@@ -23,7 +23,7 @@ Here are some ideas to get you started: -->
 
   ---
 
-  ## 🌐 Social Links 
+## 🌐 Social Links 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -53,10 +53,9 @@ Here are some ideas to get you started: -->
 
 ---
 
-
 ##  Languages and frameworks
 
-<div>
+<div align = "left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/> 
@@ -76,33 +75,34 @@ Here are some ideas to get you started: -->
 
 ---
 *Tools & Databases:*  
-<p>
+<p align = "left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="40" title="WordPress" alt="WordPress" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" title="Canva" alt="Canva" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" title="Figma" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code" alt="VS Code" />
-
+</p>
   ---
 
   *Version Control & Collaboration:*  
-<p>
+<p align = "left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub" alt="GitHub" />
-
+</p>
   ---
 
 ## 📈 GitHub Stats 
-
-<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=maleehanaz23&theme=dark" alt="GitHub Streak" /></a>-->
-![Streak](assets/streak.svg)
-
-![Stats](assets/stats.svg)
-
-<!-- [![maleehanaz23's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=maleehanaz23&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
-
-
-<!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maleehanaz23&layout=compact&theme=vision-friendly-dark) -->
-![Top Langs](assets/langs.svg)
+<p align="center">
+  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=maleehanaz23&theme=dark" alt="GitHub Streak" /></a>-->
+  ![Streak](assets/streak.svg)
+  
+  ![Stats](assets/stats.svg)
+  
+  <!-- [![maleehanaz23's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=maleehanaz23&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
+  
+  
+  <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maleehanaz23&layout=compact&theme=vision-friendly-dark) -->
+  ![Top Langs](assets/langs.svg)
+</p>
 
 
 
@@ -118,6 +118,22 @@ Here are some ideas to get you started: -->
 ## 👪Contributions
 ![Contributions](dist/snake-dark.svg)
 
+---
+
+
+## 🚀 Latest Projects:
+- **🌍 Travel Budget / Currency Converter** — Convert currencies & manage travel budget with live rates.
+- **🌱 Plant Disease Recognizer** — AI model to detect plant diseases and suggest remedies.
+- **🌦 Weather Data Visualizing & Analyzing Tool** — Reads weather data from CSV, processes it using NumPy, and visualizes trends interactively with Seaborn & Streamlit.
+- **🍽 Savouring Sukkur** — A tourism & food guide website showcasing Sukkur’s famous restaurants, street food points, and local delicacies.
+- **🧮 CalcNest Website** —  A collection of 8 functional calculators.
+
+---
+
+## 💡 My Motto:
+> “Keep learning, keep building, and let your code tell your story.”
+
+---
 
 
 
