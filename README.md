@@ -131,11 +131,11 @@ Here are some ideas to get you started: -->
 <!-- WOW / Motto Card -->
 <h3 style="margin:0 0 10px 0;">✍️ WOW!</h3>
 <div style="background-color: #333; padding: 20px; border-radius: 5px; color: #ffffff; max-width: 600px; margin: auto;">
-  <!--  <h2 style="color: #ffcc00; text-align: center;">WOW!</h2> -->
+    <h2 style="color: #ffcc00; text-align: center;">WOW!</h2> 
     <p style="font-style: italic; color: #66ff99;">
         "If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime."
     </p>
-  <!--  <p style="text-align: right; color: #ffcc00;">- David Leinweber</p> -->
+    <p style="text-align: right; color: #ffcc00;">- David Leinweber</p>
 </div>
 
 
