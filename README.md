@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on : Web Development
 - 🌱 I’m currently learning : React.js and Next.js to take my front-end skills to the next level.
-- 👯 I’m looking to collaborate on : CAlcNest website Deployment.
+- 👯 I’m looking to collaborate on : Open-source contributions and innovative web solutions.
 - 💬 Ask me about : Front-end Web Development
 - 📫 How to reach me: (https://www.linkedin.com/in/maleeha-naz-81254623b/)
 - 😄 Pronouns: She/Her
@@ -33,7 +33,8 @@ Here are some ideas to get you started: -->
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="maleehanaz2002@gmail.com">
-    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
  <!-- </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
