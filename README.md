@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning : React.js and Next.js to take my front-end skills to the next level.
 - 👯 I’m looking to collaborate on : CAlcNest website Deployment.
 - 💬 Ask me about : Front-end Web Development
-- 📫 How to reach me: [maleehanaz2002@gmail.com](https://www.linkedin.com/in/maleeha-naz-81254623b/)
+- 📫 How to reach me: (https://www.linkedin.com/in/maleeha-naz-81254623b/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I built a currency converter to save money on trips — now I just keep building it for fun. 💱✨
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started: -->
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="(https://www.linkedin.com/in/maleeha-naz-81254623b/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
