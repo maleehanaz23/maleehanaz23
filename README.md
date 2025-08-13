@@ -29,7 +29,7 @@ Here are some ideas to get you started: -->
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="(https://www.linkedin.com/in/maleeha-naz-81254623b/)">
+  <a href="https://www.linkedin.com/in/maleeha-naz-81254623b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:maleehanaz2002@gmail.com">
@@ -130,7 +130,7 @@ Here are some ideas to get you started: -->
 
 <!--  Motto Card -->
 <h3 style="margin:0 0 10px 0;">💡 MY MOTTO</h3>
-<div style="display: inline-block; background-color: orange; padding: 20px; border-radius: 5px; color: Green; max-width: 600px; margin: auto;">
+<div style="display: inline-block; background-color: orange; padding: 20px; border-radius: 5px; color: Green; max-width: 200px; margin: auto;">
     <p style="font-style: italic; color: #66ff99;">
         "Keep learning, keep building, and let your code tell your story."
     </p>
