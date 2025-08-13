@@ -129,24 +129,36 @@ Here are some ideas to get you started: -->
 
 
 <!-- WOW / Motto Card -->
-<!-- WOW / Motto Card -->
-<h3>✍️ WOW!</h3>
+<h3 style="margin:0 0 10px 0;">✍️ WOW!</h3>
 <div style="
   background:#2b2b2b;
+  border:1px solid #3a3a3a;
   color:#e5e7eb;
   padding:18px 22px;
   border-radius:12px;
-  border:1px solid #3a3a3a;
-  box-shadow: 0 2px 8px rgba(0,0,0,.25);
+  box-shadow:0 2px 8px rgba(0,0,0,.25);
+  max-width:900px;
 ">
-  <p style="margin:0 0 8px 0; font-size:20px; line-height:1.6; color:#7CFC00; font-style:italic;">
-    “If you give someone a program, you will frustrate them for a day; <br/>
+  <p style="
+    margin:0 0 8px 0;
+    font-size:20px;
+    line-height:1.6;
+    color:#7CFC00;       /* green quote text */
+    font-style:italic;
+  ">
+    “If you give someone a program, you will frustrate them for a day; 
     if you teach them how to program, you will frustrate them for a lifetime.”
   </p>
-  <div style="text-align:right; color:#FFA500; font-style:italic; margin-top:6px;">
+  <div style="
+    text-align:right;
+    color:#FFA500;       /* orange author */
+    font-style:italic;
+    margin-top:6px;
+  ">
     — David Leinweber
   </div>
 </div>
+
 
 
 
