@@ -97,6 +97,7 @@ Here are some ideas to get you started: -->
 
 <p align="center">
   <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=maleehanaz23&theme=dark" alt="GitHub Streak" /></a>-->
+ 
   ![Streak](assets/streak.svg)
   
   ![Stats](assets/stats.svg)
@@ -128,7 +129,8 @@ Here are some ideas to get you started: -->
 
 
 <!-- WOW / Motto Card -->
-<h3>💡 MY MOTO</h3>
+<!-- WOW / Motto Card -->
+<h3>✍️ WOW!</h3>
 <div style="
   background:#2b2b2b;
   color:#e5e7eb;
@@ -137,11 +139,15 @@ Here are some ideas to get you started: -->
   border:1px solid #3a3a3a;
   box-shadow: 0 2px 8px rgba(0,0,0,.25);
 ">
-  <p style="margin:0 0 8px 0; font-size:20px; line-height:1.6; color:#90EE90; font-style:italic;">
-    “ I believe in building tools that solve problems and inspire learning.”
+  <p style="margin:0 0 8px 0; font-size:20px; line-height:1.6; color:#7CFC00; font-style:italic;">
+    “If you give someone a program, you will frustrate them for a day; <br/>
+    if you teach them how to program, you will frustrate them for a lifetime.”
   </p>
-  
+  <div style="text-align:right; color:#FFA500; font-style:italic; margin-top:6px;">
+    — David Leinweber
+  </div>
 </div>
+
 
 
 ---
