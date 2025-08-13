@@ -74,6 +74,7 @@ Here are some ideas to get you started: -->
 </div>
 
 ---
+
 *Tools & Databases:*  
 <p align = "left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="40" title="WordPress" alt="WordPress" />
@@ -81,6 +82,7 @@ Here are some ideas to get you started: -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" title="Figma" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code" alt="VS Code" />
 </p>
+
   ---
 
   *Version Control & Collaboration:*  
@@ -88,9 +90,11 @@ Here are some ideas to get you started: -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub" alt="GitHub" />
 </p>
+
   ---
 
 ## 📈 GitHub Stats 
+
 <p align="center">
   <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=maleehanaz23&theme=dark" alt="GitHub Streak" /></a>-->
   ![Streak](assets/streak.svg)
@@ -121,17 +125,24 @@ Here are some ideas to get you started: -->
 ---
 
 
-## 🚀 Latest Projects:
-- **🌍 Travel Budget / Currency Converter** — Convert currencies & manage travel budget with live rates.
-- **🌱 Plant Disease Recognizer** — AI model to detect plant diseases and suggest remedies.
-- **🌦 Weather Data Visualizing & Analyzing Tool** — Reads weather data from CSV, processes it using NumPy, and visualizes trends interactively with Seaborn & Streamlit.
-- **🍽 Savouring Sukkur** — A tourism & food guide website showcasing Sukkur’s famous restaurants, street food points, and local delicacies.
-- **🧮 CalcNest Website** —  A collection of 8 functional calculators.
 
----
 
-## 💡 My Motto:
-> “Keep learning, keep building, and let your code tell your story.”
+<!-- WOW / Motto Card -->
+<h3>💡 MY MOTO</h3>
+<div style="
+  background:#2b2b2b;
+  color:#e5e7eb;
+  padding:18px 22px;
+  border-radius:12px;
+  border:1px solid #3a3a3a;
+  box-shadow: 0 2px 8px rgba(0,0,0,.25);
+">
+  <p style="margin:0 0 8px 0; font-size:20px; line-height:1.6; color:#90EE90; font-style:italic;">
+    “ I believe in building tools that solve problems and inspire learning.”
+  </p>
+  
+</div>
+
 
 ---
 
