@@ -130,7 +130,7 @@ Here are some ideas to get you started: -->
 
 <!--  Motto Card -->
 <h3 style="margin:0 0 10px 0;">💡 WOW!</h3>
-<div style="background-color: orange; padding: 20px; border-radius: 5px; color: #ffffff; max-width: 600px; margin: auto;">
+<div style="display: flex; background-color: orange; padding: 20px; border-radius: 5px; color: #ffffff; max-width: 600px; margin: auto;">
     <p style="font-style: italic; color: #66ff99;">
         "Keep learning, keep building, and let your code tell your story."
     </p>
