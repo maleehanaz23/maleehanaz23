@@ -66,8 +66,9 @@
     
         </style>
         <div class="container">
-          <h3>Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.</h3>
-          <p>- Stewart Brand</p>
+          <h3>I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.</h3>
+          <p>- Douglas Crockford</p>
         </div>
       </div>
     </foreignObject>
