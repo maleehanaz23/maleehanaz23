@@ -66,9 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.</h3>
-          <p>- Douglas Crockford</p>
+          <h3>Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.</h3>
+          <p>- Ted Nelson</p>
         </div>
       </div>
     </foreignObject>
