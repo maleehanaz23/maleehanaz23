@@ -66,9 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.</h3>
-          <p>- Bob Frankston</p>
+          <h3>Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.</h3>
+          <p>- L. Peter Deutsch</p>
         </div>
       </div>
     </foreignObject>
