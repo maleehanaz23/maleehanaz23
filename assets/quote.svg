@@ -66,8 +66,10 @@
     
         </style>
         <div class="container">
-          <h3>What is simplicity? Simplicity is the shortest path to a solution.</h3>
-          <p>- Ward Cunningham</p>
+          <h3>Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!</h3>
+          <p>- Michael A. Jackson</p>
         </div>
       </div>
     </foreignObject>
