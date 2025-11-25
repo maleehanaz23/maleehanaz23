@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.</h3>
-          <p>- Fred Brooks</p>
+          <h3>I think one of the most valuable rules is avoid duplication.</h3>
+          <p>- Martin Fowler</p>
         </div>
       </div>
     </foreignObject>
