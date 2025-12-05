@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.</h3>
-          <p>- Edsger W. Dijkstra</p>
+          <h3>Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.</h3>
+          <p>- Daniel T. Barry</p>
         </div>
       </div>
     </foreignObject>
