@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.</h3>
-          <p>- Bill Gates</p>
+          <h3>The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.</h3>
+          <p>- Fred Brooks</p>
         </div>
       </div>
     </foreignObject>
