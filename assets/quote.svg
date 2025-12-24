@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.</h3>
-          <p>- Fred Brooks</p>
+          <h3>Premature abstraction is as bad as premature optimization.</h3>
+          <p>- Luciano Ramalho</p>
         </div>
       </div>
     </foreignObject>
