@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.</h3>
-          <p>- Arthur C. Clarke</p>
+          <h3>Fancy algorithms are slow when n is small, and n is usually small.</h3>
+          <p>- Rob Pike</p>
         </div>
       </div>
     </foreignObject>
