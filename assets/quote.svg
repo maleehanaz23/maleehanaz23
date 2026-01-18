@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.</h3>
-          <p>- Douglas Crockford</p>
+          <h3>No matter how slow you are writing clean code, you will always be slower if you make a mess.</h3>
+          <p>- Robert C. Martin</p>
         </div>
       </div>
     </foreignObject>
