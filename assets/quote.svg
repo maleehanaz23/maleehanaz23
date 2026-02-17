@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.</h3>
-          <p>- Leslie Lamport</p>
+          <h3>The most important part of writing a program is designing the data structures.</h3>
+          <p>- Dan Bricklin</p>
         </div>
       </div>
     </foreignObject>
