@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>A good programmer is someone who looks both ways before crossing a one-way street.</h3>
-          <p>- Doug Linder</p>
+          <h3>My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.</h3>
+          <p>- Fred Brooks</p>
         </div>
       </div>
     </foreignObject>
