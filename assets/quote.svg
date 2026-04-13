@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.</h3>
-          <p>- Donald Knuth</p>
+          <h3>Programming increases goes as a power of program size.</h3>
+          <p>- Fred Brooks</p>
         </div>
       </div>
     </foreignObject>
