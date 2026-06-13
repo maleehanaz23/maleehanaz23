@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.</h3>
-          <p>- Gary Kildall</p>
+          <h3>When there is no type hierarchy you don’t have to manage the type hierarchy.</h3>
+          <p>- Rob Pike</p>
         </div>
       </div>
     </foreignObject>
