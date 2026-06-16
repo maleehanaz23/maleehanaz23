@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.</h3>
-          <p>- Ken Thompson</p>
+          <h3>Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.</h3>
+          <p>- Martin Fowler</p>
         </div>
       </div>
     </foreignObject>
