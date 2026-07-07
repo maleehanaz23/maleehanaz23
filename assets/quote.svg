@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.</h3>
-          <p>- Fred Brooks</p>
+          <h3>When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.</h3>
+          <p>- Kent Beck</p>
         </div>
       </div>
     </foreignObject>
