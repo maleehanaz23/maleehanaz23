@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>A few months writing code can save you a few hours in design.</h3>
-          <p>- Anonymous</p>
+          <h3>Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.</h3>
+          <p>- Bjarne Stroustrup</p>
         </div>
       </div>
     </foreignObject>
