@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.</h3>
-          <p>- Bjarne Stroustrup</p>
+          <h3>Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.</h3>
+          <p>- Chris Sacca</p>
         </div>
       </div>
     </foreignObject>
