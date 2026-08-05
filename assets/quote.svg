@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.</h3>
-          <p>- Robert C. Martin</p>
+          <h3>When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.</h3>
+          <p>- Fred Brooks</p>
         </div>
       </div>
     </foreignObject>
