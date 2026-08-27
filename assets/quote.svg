@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>In programming the hard part isn’t solving problems, but deciding what problems to solve.</h3>
-          <p>- Paul Graham (programmer)</p>
+          <h3>While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.</h3>
+          <p>- Joseph Yoder (computer scientist)</p>
         </div>
       </div>
     </foreignObject>
