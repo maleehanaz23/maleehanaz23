@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.</h3>
-          <p>- Joseph Yoder (computer scientist)</p>
+          <h3>When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.</h3>
+          <p>- Kent Beck</p>
         </div>
       </div>
     </foreignObject>
