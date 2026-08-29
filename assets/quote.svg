@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.</h3>
-          <p>- Kent Beck</p>
+          <h3>No matter how slow you are writing clean code, you will always be slower if you make a mess.</h3>
+          <p>- Robert C. Martin</p>
         </div>
       </div>
     </foreignObject>
