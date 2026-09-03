@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.</h3>
-          <p>- Ward Cunningham</p>
+          <h3>A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.</h3>
+          <p>- Tony Parisi (software developer)</p>
         </div>
       </div>
     </foreignObject>
