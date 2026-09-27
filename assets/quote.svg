@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.</h3>
-          <p>- Joe Armstrong (programmer)</p>
+          <h3>For most software, efficiency just does not matter.</h3>
+          <p>- Daniel T. Barry</p>
         </div>
       </div>
     </foreignObject>
