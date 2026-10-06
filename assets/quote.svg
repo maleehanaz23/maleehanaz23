@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.</h3>
-          <p>- Harlan Mills</p>
+          <h3>Fancy algorithms are slow when n is small, and n is usually small.</h3>
+          <p>- Rob Pike</p>
         </div>
       </div>
     </foreignObject>
