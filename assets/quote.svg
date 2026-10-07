@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Fancy algorithms are slow when n is small, and n is usually small.</h3>
-          <p>- Rob Pike</p>
+          <h3>In programming the hard part isn’t solving problems, but deciding what problems to solve.</h3>
+          <p>- Paul Graham (programmer)</p>
         </div>
       </div>
     </foreignObject>
